@@ -25,3 +25,5 @@
 + > **Alias**: gc/ cat/ type
 + > **La commande recherche**: _Get-Help cat_
 
+<ins>Autres commandes de recherches utilisables</ins>: Get-Help (Nom de la commande) -Online / Get-Command
+
